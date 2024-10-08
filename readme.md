@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tu</h1>
 <h3 align="center">A passionate web developer</h3>
 
-# 💫 About Me:
+
 🔭 I’m currently working on reactjs<br><br>🌱 I’m currently learning angular, nestjs, react native, nextjs<br><br>👨‍💻 All of my projects are available at https://porfoliopan.netlify.app/<br><br>💬 Ask me about react, nodejs, react native<br><br>📫 How to reach me tu416164@gmail.com<br><br>⚡ Fun fact I like to play sports
 
 
